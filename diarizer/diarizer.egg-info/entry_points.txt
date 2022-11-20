@@ -1,0 +1,4 @@
+[console_scripts]
+show-speaker = diarizer:show_speaker
+show-words = diarizer:show_words
+

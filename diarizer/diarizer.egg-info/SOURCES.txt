@@ -1,0 +1,8 @@
+diarizer.py
+setup.py
+diarizer.egg-info/PKG-INFO
+diarizer.egg-info/SOURCES.txt
+diarizer.egg-info/dependency_links.txt
+diarizer.egg-info/entry_points.txt
+diarizer.egg-info/requires.txt
+diarizer.egg-info/top_level.txt
